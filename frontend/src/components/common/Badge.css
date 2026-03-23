@@ -1,0 +1,25 @@
+.badge-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 12px;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: capitalize;
+  white-space: nowrap;
+}
+
+.status-critical {
+  background-color: var(--status-critical-bg);
+  color: var(--status-critical);
+}
+
+.status-low {
+  background-color: var(--status-low-bg);
+  color: var(--status-low);
+}
+
+.status-sufficient {
+  background-color: var(--status-sufficient-bg);
+  color: var(--status-sufficient);
+}

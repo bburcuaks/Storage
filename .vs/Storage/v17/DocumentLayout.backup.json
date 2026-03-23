@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burcu\\source\\repos\\Storage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\repositories\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\repositories\\concrete\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\manager\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\manager\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\manager\\abstract\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\manager\\abstract\\iproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\migrations\\20260323120141_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\migrations\\20260323120141_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\repositories\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\repositories\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\dtos\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\dtos\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\dtos\\product\\deleteproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\dtos\\product\\deleteproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\dtos\\product\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\dtos\\product\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|c:\\users\\burcu\\source\\repos\\storage\\storage\\dtos\\product\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13B6AAC9-4F89-42D2-8381-D29A5E99542B}|Storage\\Storage.csproj|solutionrelative:storage\\dtos\\product\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.http",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\app.http",
+              "RelativeDocumentMoniker": "Storage\\app.http",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\app.http*",
+              "RelativeToolTip": "Storage\\app.http*",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAiwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-23T12:24:08.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260323120141_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Migrations\\20260323120141_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Storage\\Migrations\\20260323120141_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Migrations\\20260323120141_InitialCreate.cs",
+              "RelativeToolTip": "Storage\\Migrations\\20260323120141_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:01:41.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Repositories\\Concrete\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Storage\\Repositories\\Concrete\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Repositories\\Concrete\\ProductRepository.cs",
+              "RelativeToolTip": "Storage\\Repositories\\Concrete\\ProductRepository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwFAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:45:41.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Storage\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Storage\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:37:41.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Manager\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Storage\\Manager\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Manager\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Storage\\Manager\\Concrete\\ProductManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:46:24.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Storage\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Storage\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:41:43.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Manager\\Abstract\\IProductManager.cs",
+              "RelativeDocumentMoniker": "Storage\\Manager\\Abstract\\IProductManager.cs",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Manager\\Abstract\\IProductManager.cs",
+              "RelativeToolTip": "Storage\\Manager\\Abstract\\IProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:46:01.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\appsettings.json",
+              "RelativeDocumentMoniker": "Storage\\appsettings.json",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\appsettings.json",
+              "RelativeToolTip": "Storage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T12:19:52.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Entities\\Concrete\\Product.cs",
+              "RelativeDocumentMoniker": "Storage\\Entities\\Concrete\\Product.cs",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Entities\\Concrete\\Product.cs",
+              "RelativeToolTip": "Storage\\Entities\\Concrete\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:42:27.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Program.cs",
+              "RelativeDocumentMoniker": "Storage\\Program.cs",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Program.cs",
+              "RelativeToolTip": "Storage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:46:47.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Repositories\\Abstract\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Storage\\Repositories\\Abstract\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Repositories\\Abstract\\IProductRepository.cs",
+              "RelativeToolTip": "Storage\\Repositories\\Abstract\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:45:15.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Dtos\\Common\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Storage\\Dtos\\Common\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Dtos\\Common\\PagedResult.cs",
+              "RelativeToolTip": "Storage\\Dtos\\Common\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:44:31.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Dtos\\Product\\DeleteProductRequest.cs",
+              "RelativeDocumentMoniker": "Storage\\Dtos\\Product\\DeleteProductRequest.cs",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Dtos\\Product\\DeleteProductRequest.cs",
+              "RelativeToolTip": "Storage\\Dtos\\Product\\DeleteProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:44:12.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Dtos\\Product\\UpdateProductRequest.cs",
+              "RelativeDocumentMoniker": "Storage\\Dtos\\Product\\UpdateProductRequest.cs",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Dtos\\Product\\UpdateProductRequest.cs",
+              "RelativeToolTip": "Storage\\Dtos\\Product\\UpdateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:43:47.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Dtos\\Product\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "Storage\\Dtos\\Product\\CreateProductRequest.cs",
+              "ToolTip": "C:\\Users\\burcu\\source\\repos\\Storage\\Storage\\Dtos\\Product\\CreateProductRequest.cs",
+              "RelativeToolTip": "Storage\\Dtos\\Product\\CreateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:43:14.836Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
