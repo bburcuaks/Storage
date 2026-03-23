@@ -24,14 +24,14 @@ Yanlış port ve URL kullanımı nedeniyle oluşan API bağlantı hataları, fro
 Connection string eksikliği ve migration hataları, doğru yapılandırma ile giderildi.
 Zorunlu alan hataları (örneğin companyId), request yapısının düzeltilmesiyle çözüldü.
 Kullanılmayan zorunlu alanlardan (örneğin ImageUrl) kaynaklı hatalar, alanın kaldırılması veya nullable yapılmasıyla giderildi.
-Yapay Zeka Kullanımı
 
+Yapay Zeka Kullanımı
 Yapay zeka, geliştirme sürecinde destekleyici olarak kullanılmıştır:
 
 Proje mimarisinin planlanması
 Hata çözümü ve debugging süreçleri
 Kod yapısının iyileştirilmesi
 Frontend tasarım önerileri
-Notlar
 
+Notlar
 Proje ilk etapta planlandığı şekilde geliştirilmiştir, ancak karşılaşılan teknik sorunlar nedeniyle yeniden kurgulanmıştır. Bu nedenle bazı kısımlar geliştirmeye açıktır.
